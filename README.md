@@ -43,5 +43,6 @@
   /globals.css       # Global stil tanımları
 /public              # Statik dosyalar
 ```
+Link:https://starlit-youtiao-0697a4.netlify.app/
 
 
